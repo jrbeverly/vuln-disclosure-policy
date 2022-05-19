@@ -1,0 +1,10 @@
+# Jrbeverly security contacts and policy
+
+# Our security contact channels
+Contact: mailto:security@jrbeverly.me
+
+# Link to our vulnerability disclosure policy
+Policy: https://jrbeverly.me/security
+
+# Languages that our team speaks and understands
+Preferred-Languages: en-US

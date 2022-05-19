@@ -1,0 +1,2 @@
+_security.jrbeverly.me	TXT	"security_contact=mailto:security@jrbeverly.me"
+_security.jrbeverly.me	TXT	"security_policy=https://jrbeverly.me/security"
